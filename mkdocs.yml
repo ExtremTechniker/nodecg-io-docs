@@ -40,6 +40,7 @@ nav:
   - Sample Implementations:
     - Discord: samples/discord.md
     - IntelliJ: samples/intellij.md
+    - IRC (Internet Relay Chat): samples/irc.md
     - Rcon: samples/rcon.md
     - Streamdeck: samples/streamdeck.md
     - Twitch: samples/twitch.md
