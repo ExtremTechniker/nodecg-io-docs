@@ -28,6 +28,15 @@ See the [sample implementation](samples/intellij.md)
 Depends on [nodecg-io-core](https://github.com/codeoverflow-org/nodecg-io/tree/master/nodecg-io-core) @ 0.1.0 <br>
 Depends on [node-fetch](https://www.npmjs.com/package/node-fetch) @ ^2.5.7 <br>
 
+## [nodecg-io-irc](https://github.com/codeoverflow-org/nodecg-io/tree/master/nodecg-io-irc)
+
+**Allows you to connect to a IRC server.**
+
+There's no sample implementation for this service yet.
+
+Depends on [nodecg-io-core](https://github.com/codeoverflow-org/nodecg-io/tree/master/nodecg-io-core) @ 0.1.0 <br>
+Depends on [irc](https://www.npmjs.com/package/irc) @ ^0.5.2 <br>
+
 ## [nodecg-io-rcon](https://github.com/codeoverflow-org/nodecg-io/tree/master/nodecg-io-rcon)
 
 **Allows you to send commands to a minecraft server via RCON.**
